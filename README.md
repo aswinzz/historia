@@ -1,9 +1,8 @@
 # Welcome to Historia!
 
 <div class="logos"><img src="./extension/logo/profile.png" width="220px" align="right"></div>
-Historia is a Chrome Extension which powers users to query through their history with any vague idea that they have about the website and its content. It will even let you search for an image that you have seen somewhere in your past visits using the descriptions that is provided by the user. We have a cross platform Mobile Application which will let the user search through his browser history even in mobile phones.
-
-
+Historia is a Chrome Extension which powers users to query through their history with any vague idea that they have about the website and its content. It will even let you search for an image that you have seen somewhere in your past visits using the descriptions that is provided by the user. We have a cross platform Mobile Application which will let the user search through his browser history even in mobile phones.  
+ 
 # Steps to run
 
 ## Backend
@@ -47,3 +46,6 @@ The Chrome Extension is build using React.
 
 ## Contributions
 Everyone is open to make any type of contributions to this project. If you find any bugs or need any features to be added you are free to create an issue and if you are able to solve the issue we'll be happy else we will be solving it.
+
+
+### Original Repositories are present in [historia-inout](https://github.com/historia-inout)
