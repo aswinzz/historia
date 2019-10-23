@@ -7,9 +7,9 @@ Historia is a Chrome Extension which powers users to query through their history
 # Steps to run
 
 ## Backend
-NOTE : make sure you have Google Cloud Vision API key file exported to path.
-* run `git clone https://github.com/historia-inout/backend.git`
-*  open the cloned folder in terminal
+NOTE : make sure you have Google Cloud Vision API key file exported to path and download phantomjs for your operating system and place in the root folder of backend with name phantomjs.
+*   run `git clone https://github.com/historia-inout/backend.git`
+*   open the cloned folder in terminal
 *  `virtualenv venv`
 *  `source venv/bin/activate `
 *  `pip install -r requirements `
